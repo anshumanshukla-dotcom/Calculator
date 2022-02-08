@@ -14,3 +14,6 @@ I have deployed a static website (that is, Calculator) on Azure using Azure Stor
 - After that I moved on to **Containers** and uploaded (using the interface) all the HTML, CSS and JavaScript files inside the **$web** container.
 - Then I moved again to **Static website** section and copied the **Primary endpoint**.
 - Lastly, I pasted the URL (copied from the previous step) to the browser.
+
+## Screenshot
+![screenshot-portal2calculator](https://user-images.githubusercontent.com/82021601/152935859-38bcf9f5-7504-44bf-8b3a-db59d27d7b38.png)
